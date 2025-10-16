@@ -9,9 +9,11 @@ def remove(num1, num2):
 def mult(n, b):
     return int(n*b)
 
+def exponent(a,b):
+    answer = a ** b
+    return answer
 
-
-operator = input("Enter an operator + - * /: ")
+operator = input("Enter an operator + - * / ^: ")
 
 num1 = float(input(("enter the 1st num: ")))
 num2 = float(input("enter the second number: "))
@@ -29,6 +31,9 @@ elif operator == "*":
     print(mult(num1,num2))
 elif operator == "/":
     print(divide(num1,num2))
+elif operator == "^":
+    answer1 = exponent(num1,num2)
+    print(answer1)
 else:
     print(f"{operator} is not valid")
 
