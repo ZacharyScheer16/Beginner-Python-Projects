@@ -1,0 +1,22 @@
+OrderID, CustomerName, Product, Category, Quantity, Price, OrderDate, Shipped, Country
+1001,John Smith, Laptop, Electronics, 1, 1200.0, 2024-06-01, Yes, USA
+1002,Alice Johnson,Keyboard,Electronics,2,75.5,2024-06-01,No,Canada
+1003,Robert Brown,T-Shirt,Apparel,5,25.0,2024-06-02,Yes,UK
+1004,Emily Davis,Coffee Maker,Home Goods,1,89.99,2024-06-03,Yes,USA
+1005,Michael Wilson,Mouse Pad,Electronics,10,10.0,2024-06-03,Yes,Germany
+1006,Jessica Lee,Running Shoes,Apparel,1,110.0,2024-06-04,Yes,France
+1007,David Chen,Blender,Home Goods,1,55.5,2024-06-04,No,USA
+1008,Sarah Miller,Monitor,Electronics,2,300.0,2024-06-05,Yes,Canada
+1009,Daniel Garcia,Jeans,Apparel,3,45.0,2024-06-05,Yes,UK
+1010,Laura Rodriguez,Desk Lamp,Home Goods,1,35.0,2024-06-06,No,Germany
+1011,James Lopez,Webcam,Electronics,4,49.99,2024-06-07,Yes,France
+1012,Maria Hernandez,Socks,Apparel,12,8.5,2024-06-07,Yes,USA
+1013,Thomas White,Toaster,Home Goods,1,39.99,2024-06-08,Yes,Canada
+1014,Chloe King,External Drive,Electronics,1,85.0,2024-06-09,Yes,UK
+1015,Kevin Scott,Sweater,Apparel,2,65.0,2024-06-10,No,USA
+1016,Olivia Green,Picture Frame,Home Goods,6,15.0,2024-06-11,Yes,Germany
+1017,Ethan Hall,Smartwatch,Electronics,1,199.99,2024-06-12,Yes,France
+1018,Isabella Baker,Dress,Apparel,1,79.99,2024-06-13,Yes,Canada
+1019,Noah Adams,Headphones,Electronics,3,150.0,2024-06-13,No,UK
+1020,Ava Perez,Pillow,Home Goods,4,20.0,2024-06-14,Yes,USA
+1021,Ryan Clark,Book,Media,5,18.0,2024-06-14,Yes,Australia
