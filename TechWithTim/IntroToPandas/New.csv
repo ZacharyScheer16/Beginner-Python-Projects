@@ -1,0 +1,153 @@
+OrderID,CustomerName,Product,Category,Quantity,Price,OrderDate,Shipped,Country
+1001,John Smith,Laptop,Electronics,1,1200.0,2024-06-01,Yes,USA
+1002,Alice Johnson,Keyboard,Electronics,2,75.5,2024-06-01,No,Canada
+1003,Robert Brown,T-Shirt,Apparel,5,25.0,2024-06-02,Yes,UK
+1004,Emily Davis,Coffee Maker,Home Goods,1,89.99,2024-06-03,Yes,usa
+1005,Michael Wilson,Mouse Pad,Electronics,10,10.0,2024-06-03,Yes,Germany
+1006,Jessica Lee,Running Shoes,Apparel,1,110.0,2024-06-04,Yes,France
+1007,David Chen,Blender,Home Goods,1,55.5,2024-06-04,No,USA
+1008,Sarah Miller,Monitor,Electronics,2,300.0,2024-06-05,Yes,Canada
+1009,Daniel Garcia,Jeans,Apparel,3,45.0,2024-06-05,Yes,UK
+1010,Laura Rodriguez,Desk Lamp,Home Goods,1,35.0,2024-06-06,No,germany
+1011,James Lopez,Webcam,Electronics,4,49.99,2024-06-07,Yes,France
+1012,Maria Hernandez,Socks,Apparel,12,8.5,2024-06-07,Yes,USA
+1013,Thomas White,Toaster,Home Goods,1,39.99,2024-06-08,Yes,Canada
+1014,Chloe King,External Drive,Electronics,1,85.0,2024-06-09,Yes,UK
+1015,Kevin Scott,Sweater,Apparel,2,65.0,2024-06-10,No,U.S.A
+1016,Olivia Green,Picture Frame,Home Goods,6,15.0,2024-06-11,Yes,Germany
+1017,Ethan Hall,Smartwatch,Electronics,1,199.99,2024-06-12,Yes,France
+1018,Isabella Baker,Dress,Apparel,1,79.99,2024-06-13,Yes,Canada
+1019,Noah Adams,Headphones,Electronics,3,150.0,2024-06-13,No,UK
+1020,Ava Perez,Pillow,Home Goods,4,20.0,2024-06-14,Yes,USA
+1021,Ryan Clark,Book,Media,5,18.0,2024-06-14,Yes,Australia
+1022,Grace Foster,USB Cable,Electronics,15,5.99,2024-06-15,Yes,USA
+1023,Henry Bell,Gloves,Apparel,2,22.0,2024-06-15,No,Canada
+1024,Lily Scott,Mug,Home Goods,4,12.5,2024-06-16,Yes,UK
+1025,Andrew Harris,Software,Electronics,1,99.99,2024-06-17,No,USA
+1026,Victoria Reed,Jacket,Apparel,1,130.0,2024-06-17,Yes,Germany
+1027,Samuel Ortiz,Candle Set,Home Goods,2,28.0,2024-06-18,Yes,France
+1028,Sofia Perez,Charging Dock,Electronics,1,45.0,2024-06-18,Yes,USA
+1029,Gabriel King,Hat,Apparel,3,20.0,2024-06-19,No,Canada
+1030,Hannah Young,Book,Media,2,18.0,2024-06-20,Yes,UK
+1031,Isaac Nelson,Speakers,Electronics,1,150.0,2024-06-20,Yes,USA
+1032,Natalie Cruz,Scarf,Apparel,4,15.0,2024-06-21,Yes,Germany
+1033,William Flores,Storage Bin,Home Goods,3,18.0,2024-06-22,No,France
+1034,Chloe King,External Drive,Electronics,1,85.0,2024-06-09,Yes,UK
+1035,Logan Walker,Sweater,Apparel,-2,65.0,2024-06-23,No,USA
+1036,Mason Gray,Router,Electronics,1,79.99,2024-06-24,Yes,Canada
+1037,Olivia Green,Picture Frame,Home Goods,6,15.0,2024-06-11,Yes,Germany
+1038,Ethan Hall,Smartwatch,Electronics,1,199.99,2024-06-12,Yes,France
+1039,Sophia Lopez,Pants,Apparel,2,55.0,2024-06-25,Yes,U.S.A
+1040,Jacob Hill,Monitor,Electronics,1,280.0,2024-06-26,Yes,USA
+1041,Ava Perez,Pillow,Home Goods,4,20.0,2024-06-14,Yes,USA
+1042,Noah Adams,Headphones,Electronics,3,150.0,2024-06-13,No,UK
+1043,Mia Evans,Candle Set,Home Goods,1,28.0,2024-06-27,Yes,Canada
+1044,Liam Baker,T-Shirt,Apparel,3,25.0,2024-06-28,Yes,UK
+1045,Charlotte Wood,Laptop,Electronics,1,1200.0,2024-06-29,Yes,usa
+1046,Benjamin Adams,Mug,Home Goods,2,12.5,2024-06-30,No,Germany
+1047,Evelyn Rodriguez,Keyboard,Electronics,1,75.5,2024-07-01,Yes,France
+1048,Jackson Hall,Jeans,Apparel,1,45.0,2024-07-02,Yes,USA
+1049,Abigail Scott,Book,Media,3,18.0,2024-07-03,No,Canada
+1050,Daniel Garcia,Jeans,Apparel,3,45.0,2024-07-05,Yes,UK
+1051,Robert Brown,T-Shirt,Apparel,5,25.0,2024-07-02,Yes,UK
+1052,John Smith,Mouse Pad,Electronics,5,10.0,2024-07-06,Yes,USA
+1053,Alice Johnson,Running Shoes,Apparel,1,110.0,2024-07-07,Yes,Canada
+1054,Michael Wilson,Blender,Home Goods,1,,2024-07-08,No,USA
+1055,Jessica Lee,Monitor,Electronics,1,300.0,2024-07-09,Yes,Germany
+1056,David Chen,Socks,Apparel,6,8.5,2024-07-10,Yes,France
+1057,Sarah Miller,Toaster,Home Goods,1,39.99,2024-07-11,Yes,USA
+1058,Daniel Garcia,External Drive,Electronics,1,85.0,2024-07-12,Yes,Canada
+1059,Laura Rodriguez,Sweater,Apparel,1,65.0,2024-07-13,No,UK
+1060,James Lopez,Pillow,Home Goods,2,20.0,2024-07-14,Yes,germany
+1061,Maria Hernandez,Book,Media,1,18.0,2024-07-15,Yes,USA
+1062,Thomas White,USB Cable,Electronics,10,5.99,2024-07-16,Yes,Canada
+1063,Chloe King,Gloves,Apparel,1,22.0,2024-07-17,No,UK
+1064,Kevin Scott,Mug,Home Goods,2,12.5,2024-07-18,Yes,USA
+1065,Olivia Green,Software,Electronics,1,99.99,2024-07-19,No,Germany
+1066,Ethan Hall,Jacket,Apparel,1,130.0,2024-07-20,Yes,France
+1067,Isabella Baker,Candle Set,Home Goods,1,28.0,2024-07-21,Yes,USA
+1068,Noah Adams,Charging Dock,Electronics,2,45.0,2024-07-22,Yes,Canada
+1069,Ava Perez,Hat,Apparel,1,20.0,2024-07-23,No,UK
+1070,Ryan Clark,Book,Media,1,18.0,2024-07-24,Yes,Australia
+1071,Grace Foster,Speakers,Electronics,1,150.0,2024-07-25,Yes,USA
+1072,Henry Bell,Scarf,Apparel,2,15.0,2024-07-26,Yes,Canada
+1073,Lily Scott,Storage Bin,Home Goods,1,18.0,2024-07-27,No,UK
+1074,Andrew Harris,Laptop,Electronics,1,1200.0,2024-07-28,Yes,U.S.A
+1075,Victoria Reed,Pants,Apparel,1,55.0,2024-07-29,Yes,Germany
+1076,Samuel Ortiz,Monitor,Electronics,1,280.0,2024-07-30,Yes,France
+1077,Sofia Perez,Pillow,Home Goods,2,20.0,2024-07-31,Yes,USA
+1078,Gabriel King,Headphones,Electronics,1,150.0,2024-08-01,No,Canada
+1079,Hannah Young,Candle Set,Home Goods,2,28.0,2024-08-02,Yes,UK
+1080,Isaac Nelson,T-Shirt,Apparel,1,25.0,2024-08-03,Yes,USA
+1081,Natalie Cruz,Mouse Pad,Electronics,1,-10.0,2024-08-04,Yes,Germany
+1082,William Flores,Running Shoes,Apparel,1,110.0,2024-08-05,No,France
+1083,Chloe King,Blender,Home Goods,1,55.5,2024-08-06,Yes,USA
+1084,Logan Walker,Monitor,Electronics,1,300.0,2024-08-07,Yes,Canada
+1085,Mason Gray,Socks,Apparel,3,8.5,2024-08-08,Yes,UK
+1086,Olivia Green,Toaster,Home Goods,1,39.99,2024-08-09,Yes,Germany
+1087,Ethan Hall,External Drive,Electronics,1,85.0,2024-08-10,Yes,France
+1088,Isabella Baker,Sweater,Apparel,1,65.0,2024-08-11,No,USA
+1089,Noah Adams,Pillow,Home Goods,1,20.0,2024-08-12,Yes,Canada
+1090,Ava Perez,Book,Media,1,18.0,2024-08-13,Yes,UK
+1091,Ryan Clark,USB Cable,Electronics,5,5.99,2024-08-14,Yes,Australia
+1092,Grace Foster,Gloves,Apparel,1,22.0,2024-08-15,No,USA
+1093,Henry Bell,Mug,Home Goods,1,12.5,2024-08-16,Yes,Canada
+1094,Lily Scott,Software,Electronics,1,99.99,2024-08-17,No,UK
+1095,Andrew Harris,Jacket,Apparel,1,130.0,2024-08-18,Yes,usa
+1096,Victoria Reed,Candle Set,Home Goods,1,28.0,2024-08-19,Yes,Germany
+1097,Samuel Ortiz,Charging Dock,Electronics,1,45.0,2024-08-20,Yes,France
+1098,Sofia Perez,Hat,Apparel,1,20.0,2024-08-21,No,USA
+1099,Gabriel King,Speakers,Electronics,1,150.0,2024-08-22,Yes,Canada
+1100,Hannah Young,Scarf,Apparel,1,15.0,2024-08-23,Yes,UK
+1001,John Smith,Laptop,Electronics,1,1200.0,2024-06-01,Yes,USA
+1101,Isaac Nelson,Storage Bin,Home Goods,1,18.0,2024-08-24,No,USA
+1102,Natalie Cruz,Laptop,Electronics,1,1200.0,2024-08-25,Yes,Germany
+1103,William Flores,Pants,Apparel,1,55.0,2024-08-26,Yes,France
+1104,Chloe King,Monitor,Electronics,1,280.0,2024-08-27,Yes,Canada
+1105,Logan Walker,Pillow,Home Goods,1,20.0,2024-08-28,Yes,UK
+1106,Mason Gray,Headphones,Electronics,1,150.0,2024-08-29,No,USA
+1107,Olivia Green,Candle Set,Home Goods,1,28.0,2024-08-30,Yes,germany
+1108,Ethan Hall,T-Shirt,Apparel,1,25.0,2024-08-31,Yes,France
+1109,Isabella Baker,Mouse Pad,Electronics,1,10.0,2024-09-01,Yes,Canada
+1110,Noah Adams,Running Shoes,Apparel,1,110.0,2024-09-02,No,UK
+1111,Ava Perez,Blender,Home Goods,1,55.5,2024-09-03,Yes,USA
+1112,Ryan Clark,Monitor,Electronics,1,300.0,2024-09-04,Yes,Australia
+1113,Grace Foster,Socks,Apparel,1,8.5,2024-09-05,Yes,USA
+1114,Henry Bell,Toaster,Home Goods,1,39.99,2024-09-06,Yes,Canada
+1115,Lily Scott,External Drive,Electronics,1,85.0,2024-09-07,No,UK
+1116,Andrew Harris,Sweater,Apparel,1,65.0,2024-09-08,Yes,U.S.A
+1117,Victoria Reed,Pillow,Home Goods,1,20.0,2024-09-09,Yes,Germany
+1118,Samuel Ortiz,Book,Media,1,18.0,2024-09-10,No,France
+1119,Sofia Perez,USB Cable,Electronics,1,5.99,2024-09-11,Yes,USA
+1120,Gabriel King,Gloves,Apparel,1,22.0,2024-09-12,Yes,Canada
+1121,Hannah Young,Mug,Home Goods,1,12.5,2024-09-13,No,UK
+1122,Isaac Nelson,Software,Electronics,1,99.99,2024-09-14,Yes,USA
+1123,Natalie Cruz,Jacket,Apparel,1,130.0,2024-09-15,Yes,Germany
+1124,William Flores,Candle Set,Home Goods,1,28.0,2024-09-16,No,France
+1125,Chloe King,Charging Dock,Electronics,1,45.0,2024-09-17,Yes,UK
+1126,Logan Walker,Hat,Apparel,1,20.0,2024-09-18,Yes,USA
+1127,Mason Gray,Speakers,Electronics,1,150.0,2024-09-19,No,Canada
+1128,Olivia Green,Scarf,Apparel,1,15.0,2024-09-20,Yes,Germany
+1129,Ethan Hall,Storage Bin,Home Goods,1,18.0,2024-09-21,Yes,France
+1130,Isabella Baker,Laptop,Electronics,1,12000.0,2024-09-22,Yes,USA
+1131,Noah Adams,Pants,Apparel,1,55.0,2024-09-23,No,Canada
+1132,Ava Perez,Monitor,Electronics,1,280.0,2024-09-24,Yes,UK
+1133,Ryan Clark,Pillow,Home Goods,1,20.0,2024-09-25,Yes,Australia
+1134,Grace Foster,Headphones,Electronics,1,,2024-09-26,Yes,USA
+1135,Henry Bell,Candle Set,Home Goods,1,28.0,2024-09-27,No,Canada
+1136,Lily Scott,T-Shirt,Apparel,1,25.0,2024-09-28,Yes,UK
+1137,Andrew Harris,Mouse Pad,Electronics,1,10.0,2024-09-29,Yes,USA
+1138,Victoria Reed,Running Shoes,Apparel,1,110.0,2024-09-30,No,Germany
+1139,Samuel Ortiz,Blender,Home Goods,1,55.5,2024-10-01,Yes,France
+1140,Sofia Perez,Monitor,Electronics,1,300.0,2024-10-02,Yes,USA
+1141,Gabriel King,Socks,Apparel,1,8.5,2024-10-03,Yes,Canada
+1142,Hannah Young,Toaster,Home Goods,1,39.99,2024-10-04,Yes,UK
+1143,Isaac Nelson,External Drive,Electronics,1,85.0,2024-10-05,No,USA
+1144,Natalie Cruz,Sweater,Apparel,1,65.0,2024-10-06,Yes,Germany
+1145,William Flores,Pillow,Home Goods,1,20.0,2024-10-07,Yes,France
+1146,Chloe King,Book,Media,1,18.0,2024-10-08,No,UK
+1147,Logan Walker,USB Cable,Electronics,1,5.99,2024-10-09,Yes,USA
+1148,Mason Gray,Gloves,Apparel,1,22.0,2024-10-10,Yes,Canada
+1149,Olivia Green,Mug,Home Goods,1,12.5,2024-10-11,No,Germany
+1150,Ethan Hall,Software,Electronics,1,N/A,2024-10-12,Yes,France
+1001,John Smith,Laptop,Electronics,1,1200.0,2024-06-01,Yes,USA
