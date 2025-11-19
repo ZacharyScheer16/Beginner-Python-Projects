@@ -1,0 +1,17 @@
+# Ignore Python build/runtime files
+__pycache__/
+*.pyc
+venv/
+.pytest_cache/
+
+# Ignore version control
+.git/
+.gitignore
+
+# Ignore IDE/Local configuration files
+.vscode/
+.idea/
+
+# Ignore large or sensitive local data files (customize this list)
+large_raw_data/
+local_secrets.env
