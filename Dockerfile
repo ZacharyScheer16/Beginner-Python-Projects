@@ -1,28 +1,20 @@
-# Base Image: A lean version of Python 3.11
-FROM python:3.11-slim
+FROM ubuntu:latest
+LABEL authors="zsche"
 
-# Set Working Directory: /app is the standard place for application code
+# Install Python and pip
+RUN apt-get update && apt-get install -y python3 python3-pip && rm -rf /var/lib/apt/lists/*
+
+# Set working directory
 WORKDIR /app
 
-# Matplotlib Fix: Use the 'Agg' backend to save plots as files (instead of showing a GUI)
-ENV MPLBACKEND=Agg
-
-# 1. CREATE requirements.txt inside the container and add packages
-RUN echo "numpy" > requirements.txt && \
-    echo "pandas" >> requirements.txt && \
-    echo "matplotlib" >> requirements.txt
-
-# 2. Install System and Python Dependencies
-# We chain the system install (gcc), pip install, and cleanup steps together.
-RUN apt-get update && \
-    apt-get install -y --no-install-recommends gcc && \
-    pip install --no-cache-dir -r requirements.txt && \
-    apt-get purge -y gcc && \
-    apt-get autoremove -y && \
-    rm -rf /var/lib/apt/lists/*
-
-# 3. Copy Application Code: Copies all your .py files (respecting .dockerignore)
+# Copy project files
 COPY . .
 
-# 4. Default Command: Start the Python interpreter when the container runs
-CMD ["python"]
+# Install dependencies if requirements.txt exists
+RUN if [ -f requirements.txt ]; then pip3 install --no-cache-dir -r requirements.txt; fi
+
+# Install Jupyter
+RUN pip3 install jupyter
+
+# Run notebook via nbconvert
+CMD ["jupyter", "nbconvert", "--to", "script", "Covid19.ipynb", "--execute"]
